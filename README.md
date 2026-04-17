@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm Amadi Uchechukwu Godswill
 
-<!--
-**gwill-dev/gwill-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Aspiring Software Developer
 
-Here are some ideas to get you started:
+I am an Electrical and Electronics Engineering graduate (2:1) currently transitioning into Software Development. I am passionate about building web applications and continuously improving my programming skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+- 🎓 B.Eng in Electrical & Electronics Engineering (2:1)
+- 💡 Currently learning Software Development
+- 🌐 Focused on Front-End Development and growing into Full-Stack Engineering
+- 🛠️ Building real-world projects to strengthen my skills
+
+---
+
+## 🧠 Tech Skills
+- HTML, CSS, JavaScript  
+- Bootstrap  
+- Python (Basic)  
+- Git & GitHub (Learning)  
+
+---
+
+## 📂 Projects
+- 🌐 Personal Portfolio Website  
+  https://uchegwillama.my.canva.site  
+
+*(More projects coming soon as I continue learning and building.)*
+
+---
+
+## 🎯 Goals
+- Become a professional Software Developer  
+- Build scalable web applications  
+- Gain admission into a Master’s program in Software Development  
+- Work in the global tech industry  
+
+---
+
+## 📫 Contact
+- Email: uchegwillama@yahoo.com  
+- Location: Nigeria  
+
+---
+
+⭐ Always learning, always building.
