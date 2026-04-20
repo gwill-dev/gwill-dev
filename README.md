@@ -8,7 +8,7 @@ I am an Electrical and Electronics Engineering graduate (2:1) currently transiti
 
 ## 🚀 About Me
 - 🎓 B.Eng in Electrical & Electronics Engineering (2:1)
-- 💡 I specialize in building responsive web applications using 
+- 💡 I specialize in building responsive web applications  
 - 🌐 Focused on Front-End Development and growing into Full-Stack Engineering
 - 🛠️ Building real-world projects to strengthen my skills
 
