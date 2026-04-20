@@ -8,7 +8,7 @@ I am an Electrical and Electronics Engineering graduate (2:1) currently transiti
 
 ## 🚀 About Me
 - 🎓 B.Eng in Electrical & Electronics Engineering (2:1)
-- 💡 Currently learning Software Development
+- 💡 I specialize in building responsive web applications using 
 - 🌐 Focused on Front-End Development and growing into Full-Stack Engineering
 - 🛠️ Building real-world projects to strengthen my skills
 
@@ -17,14 +17,15 @@ I am an Electrical and Electronics Engineering graduate (2:1) currently transiti
 ## 🧠 Tech Skills
 - HTML, CSS, JavaScript  
 - Bootstrap  
-- Python (Basic)  
-- Git & GitHub (Learning)  
+- Python   
+- Git & GitHub
+- APIs   
 
 ---
 
 ## 📂 Projects
 - 🌐 Personal Portfolio Website  
-  https://uchegwillama.my.canva.site  
+  [https://gwill-dev.github.io/portfolio-website/] 
 
 *(More projects coming soon as I continue learning and building.)*
 
